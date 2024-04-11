@@ -1,0 +1,5 @@
+print('\tDOBRO E TRIPLO NÚMERO INTEIRO')
+numero = int(input('Digite um número inteiro: '))
+print(f'Número: {numero}')
+print(f'Dobro: {2*numero}')
+print(f'Triplo: {3*numero}')
